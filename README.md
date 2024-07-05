@@ -2,10 +2,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pisolkar450&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pisolkar450&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">"Welcome to my GitHub account! 🚀 Here, you'll find a collection of my coding adventures, passion projects, and contributions to open-source software. I'm dedicated to crafting elegant solutions, exploring new technologies, and collaborating with the global developer community. From web development to machine learning, I'm always seeking to innovate and improve. Join me on this journey of continuous learning and creativity!"</p>
 
 ###
 
@@ -81,11 +78,13 @@
 
 ###
 
-<img align="right" height="150" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pisolkar450&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=slateorange&hide_border=true&order=2" height="100" alt="languages graph"  />
+</div>
 
 ###
 
-<p align="left">"Welcome to my GitHub account! 🚀 Here, you'll find a collection of my coding adventures, passion projects, and contributions to open-source software. I'm dedicated to crafting elegant solutions, exploring new technologies, and collaborating with the global developer community. From web development to machine learning, I'm always seeking to innovate and improve. Join me on this journey of continuous learning and creativity!"</p>
+<img align="right" height="" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"  />
 
 ###
 
